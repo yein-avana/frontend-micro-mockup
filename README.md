@@ -9,4 +9,4 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-and start see your app in action
+and start see your micro app in action
